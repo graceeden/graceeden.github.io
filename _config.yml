@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://media.licdn.com/dms/image/v2/D5603AQH4Qsf2k_rbsA/profile-displayphoto-scale_200_200/B56Zxk_vdnHoAY-/0/1771220961117?e=2147483647&v=beta&t=C0ZMD9b0vCw2Dny9w0Eah_bi7-H45xf-gSEy3Tj0Izg"
   name             : "Grace Eden"
   pronouns         : # example: "she/her"  
   bio              : "Professor"
