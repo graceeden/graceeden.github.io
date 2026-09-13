@@ -1,0 +1,6 @@
+---
+layout: default
+title: "Methods"
+permalink: /methods/
+---
+<section class="page"><div class="wrap"><div class="head"><div class="label">Methods</div><div><h1>A broad qualitative toolkit, selected according to the question.</h1><p class="intro">I use methods strategically rather than as a checklist, combining empirical HCI with design-led and interpretive approaches.</p></div></div><div class="methods"><div><h3>Discover</h3><p>Ethnography, contextual inquiry, participant observation, field studies, interviews, focus groups and diary studies.</p></div><div><h3>Design</h3><p>Participatory design, co-design, workshops, speculative design, design fiction and requirements gathering.</p></div><div><h3>Evaluate</h3><p>Usability, prototype and concept evaluation, including quasi-naturalistic experimental approaches.</p></div><div><h3>Analyse</h3><p>Ethnomethodology, thematic analysis, qualitative coding, interaction analysis and conversation analysis.</p></div><div><h3>Communicate</h3><p>Research narratives, strategic recommendations, workshops, exhibitions, presentations and reports.</p></div><div><h3>Lead</h3><p>Research strategy, programme planning, multidisciplinary collaboration, mentoring and stakeholder engagement.</p></div></div></div></section>
