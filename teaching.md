@@ -1,0 +1,6 @@
+---
+layout: default
+title: "Teaching"
+permalink: /teaching/
+---
+<section class="page"><div class="wrap"><div class="head"><div class="label">Teaching</div><div><h1>Teaching HCI, design, research methods and Human-Centred AI.</h1><p class="intro">My teaching combines conceptual foundations with practical research and design skills, helping students understand both how interactive systems work and how to investigate them critically.</p></div></div><div class="two"><div class="panel"><h3>Current and recent teaching</h3><p><strong>Alliance University</strong> — Human Machine Interaction and Interface.</p><p><strong>University of Tartu</strong> — HCI and digital innovation.</p><p><strong>University of York</strong> — Advanced Topics in Human-Centred AI.</p><p><strong>IIIT-Delhi</strong> — Designing Interactive Systems, Design Futures, HCI and Human-Centred AI.</p></div><div class="panel"><h3>Research supervision</h3><p>I supervise undergraduate, MSc and doctoral research across HCI, Human-Centred AI, Design Futures and interaction design.</p><p>Recent topics have included superintelligent AI alignment, LLMs in UX design, AI in journalism and education, autonomous vehicle experience design, and speculative approaches to sustainability.</p></div></div></div></section>
