@@ -1,6 +1,0 @@
----
-layout: default
-title: "Making Data and Privacy Visible"
-permalink: /work/privacy/
----
-<section class="page"><div class="wrap"><div class="head"><div class="label">Public engagement · Privacy</div><div><h1>Making Data and Privacy Visible</h1><p class="intro">A public-facing exhibition developed in partnership with Tactical Tech to engage people in dialogue around data, privacy and relationships with technology.</p></div></div><div class="two"><div class="panel"><h3>Purpose</h3><p>Translate complex questions about personal data and digital privacy into experiences that people can encounter, discuss and reflect upon.</p></div><div class="panel"><h3>Format</h3><p>Exhibition, public engagement and design-led communication, connecting research questions with everyday experience.</p></div></div><div style="max-width:850px;margin-top:50px"><h2>From research to public conversation</h2><p>The project reflects my interest in taking HCI questions beyond academic settings. Exhibitions and participatory formats can create different forms of engagement, allowing people to connect abstract technological systems with their own lives.</p><h2>Contribution</h2><p>The work formed part of my broader Responsible Innovation practice and experience working across research, design and public-facing communication.</p></div></div></section>

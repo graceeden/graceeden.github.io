@@ -1,8 +1,6 @@
-title: "Grace Eden"
-description: "Professor · Human-Centred AI · Design Futures · HCI · Responsible Innovation"
-url: "https://graceeden.github.io"
+title: Grace Eden
+description: Professor, researcher and academic leader working across Human-Centred AI, Design Futures and HCI.
+url: https://graceeden.github.io
 baseurl: ""
-repository: "graceeden/graceeden.github.io"
 markdown: kramdown
-permalink: pretty
 plugins: []

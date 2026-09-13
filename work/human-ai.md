@@ -1,6 +1,0 @@
----
-layout: default
-title: "Human–AI Collaboration"
-permalink: /work/human-ai/
----
-<section class="page"><div class="wrap"><div class="head"><div class="label">Human-Centred AI</div><div><h1>Human–AI Collaboration</h1><p class="intro">Understanding how people interpret, negotiate and work with increasingly capable AI systems.</p></div></div><div class="two"><div class="panel"><h3>Research focus</h3><p>How do people make sense of AI outputs, capabilities and limitations, and how does AI alter established practices of work and decision-making?</p></div><div class="panel"><h3>Current domains</h3><p>Generative AI in education, journalism, UX and research, alongside wider questions of human judgement, accountability and interaction with autonomous systems.</p></div></div><div style="max-width:850px;margin-top:50px"><h2>From automation to collaboration</h2><p>I approach AI as a sociotechnical system. The important questions concern not only model performance, but how people interpret outputs, decide when to trust them, verify information and incorporate AI into existing practices.</p><h2>Research contribution</h2><p>This work extends my longstanding empirical HCI research into a contemporary Human-Centred AI agenda, combining fieldwork and interpretive analysis with design and evaluation.</p></div></div></section>

@@ -1,6 +1,0 @@
----
-layout: default
-title: "Work of Fiction: The Future of Hiring"
-permalink: /work/future-hiring/
----
-<section class="page"><div class="wrap"><div class="head"><div class="label">Design Futures</div><div><h1>Work of Fiction: The Future of Hiring</h1><p class="intro">Using speculative design and design fiction to explore possible futures of hiring and emerging technology.</p></div></div><div class="two"><div class="panel"><h3>Purpose</h3><p>Make assumptions about future work and hiring visible enough for people to question, discuss and reimagine them.</p></div><div class="panel"><h3>Methods</h3><p>Speculative design, design fiction, future scenarios and facilitated discussion.</p></div></div><div style="max-width:850px;margin-top:50px"><h2>Why speculate?</h2><p>Speculation creates a space in which participants can examine consequences before technologies and practices become fixed. Fictional artefacts can make abstract futures concrete and give people something to respond to.</p><div class="quote">The value of a future scenario is not prediction. It is the discussion it makes possible.</div><h2>Contribution</h2><p>This project sits within my wider Design Futures programme, which uses speculative and participatory approaches to examine relationships, work, technology and social change.</p></div></div></section>
