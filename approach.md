@@ -1,0 +1,6 @@
+---
+layout: default
+title: "Approach"
+permalink: /approach/
+---
+<section class="page"><div class="wrap"><div class="head"><div class="label">How I work</div><div><h1>I start with people rather than technologies.</h1><p class="intro">My research combines fieldwork, interpretation, ideation and evaluation. I move between the micro level of interaction, the meso level of organisations and the macro level of social and technological change.</p></div></div><div class="process"><div><strong>01 · Frame</strong><span>Define the problem, context, stakeholders and research questions.</span></div><div><strong>02 · Discover</strong><span>Understand what people actually do through fieldwork and direct engagement.</span></div><div><strong>03 · Interpret</strong><span>Analyse behaviour, language, practices, tensions and patterns.</span></div><div><strong>04 · Synthesise</strong><span>Turn evidence into shared understanding of needs and opportunities.</span></div><div><strong>05 · Envision</strong><span>Translate insights into design opportunities, concepts and future scenarios.</span></div><div><strong>06 · Evaluate</strong><span>Test assumptions, prototypes and interventions with people.</span></div></div></div></section>
