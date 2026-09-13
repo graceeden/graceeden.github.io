@@ -1,0 +1,6 @@
+---
+layout: default
+title: "The Human-Air Interface"
+permalink: /work/human-air/
+---
+<section class="page"><div class="wrap"><div class="head"><div class="label">Field research · HCI</div><div><h1>The Human-Air Interface</h1><p class="intro">Exploring how people experience air quality and how interaction design can make an invisible environmental condition more tangible.</p></div></div><div class="two"><div class="panel"><h3>Research focus</h3><p>Air quality is experienced through the body and everyday routines, while digital systems often reduce it to numbers, alerts or indices.</p></div><div class="panel"><h3>Approach</h3><p>Field research and interaction design were used to investigate lived experience and possibilities for communicating environmental conditions.</p></div></div><div style="max-width:850px;margin-top:50px"><h2>Making the invisible discussable</h2><p>The project examined the relationship between environmental conditions, bodily experience and digital information. It asked how interaction might support people in noticing and interpreting air quality rather than simply receiving a metric.</p><h2>Contribution</h2><p>The work was presented at DIS and contributes to a wider research interest in how HCI can engage with environmental and societal challenges.</p></div></div></section>
